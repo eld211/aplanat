@@ -9,7 +9,7 @@ from bokeh.colors import RGB
 from bokeh.embed.util import OutputDocumentFor, standalone_docs_json
 import bokeh.io as bkio
 from bokeh.layouts import gridplot
-from bokeh.plotting import Figure
+from bokeh.plotting import figure
 
 __version__ = "0.6.15"
 
